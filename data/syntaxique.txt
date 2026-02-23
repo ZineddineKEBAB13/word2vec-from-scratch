@@ -1,0 +1,59 @@
+# === PRESENT (3s) → IMPARFAIT (3s)
+mange mangeait boit buvait
+mange mangeait parle parlait
+mange mangeait marche marchait
+mange mangeait chante chantait
+lit lisait ecrit ecrivait
+lit lisait dort dormait
+lit lisait vient venait
+lit lisait voit voyait
+parle parlait chante chantait
+marche marchait dort dormait
+
+# === PRESENT (3s) → FUTUR SIMPLE (3s)
+mange mangera boit boira
+mange mangera parle parlera
+mange mangera marche marchera
+parle parlera chante chantera
+lit lira ecrit ecrira
+lit lira dort dormira
+lit lira vient viendra
+lit lira voit verra
+vient viendra part partira
+prend prendra donne donnera
+
+# === SINGULIER → PLURIEL (noms)
+chat chats chien chiens
+chat chats maison maisons
+chien chiens voiture voitures
+maison maisons appartement appartements
+livre livres film films
+table tables chaise chaises
+fleur fleurs arbre arbres
+euro euros dollar dollars
+produit produits service services
+journal journaux festival festivals
+
+# === INFINITIF → PARTICIPE PASSE
+manger mange boire bu
+manger mange parler parle
+finir fini prendre pris
+finir fini mettre mis
+voir vu faire fait
+voir vu venir venu
+lire lu ecrire ecrit
+lire lu dire dit
+parler parle finir fini
+prendre pris mettre mis
+
+# === PRESENT 1s → PRESENT 1p
+mange mangeons parle parlons
+mange mangeons marche marchons
+mange mangeons chante chantons
+bois buvons mange mangeons
+lis lisons ecris ecrivons
+dors dormons viens venons
+vois voyons prends prenons
+fais faisons vais allons
+dis disons ecris ecrivons
+mets mettons prends prenons

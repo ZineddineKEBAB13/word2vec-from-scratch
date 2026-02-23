@@ -1,0 +1,25 @@
+FICHIER : C:\Users\zinou\Downloads\M2\ML\TPML\2\data\semantique.txt
+TOTAL : 10/50 corrects (20.00%)
+Temps total : 51.107 sec
+
+=== Accuracy par catégorie ===
+- === GÉOGRAPHIQUES (pays : capitale) : 5/10  (50.00%)
+- === GENRE HUMAIN (masculin : feminin) : 3/10  (30.00%)
+- === ANIMAUX (male : femelle) : 0/5  (0.00%)
+- === ARBRES ET FRUITS : 0/5  (0.00%)
+- === PROFESSIONS ET LIEUX : 2/5  (40.00%)
+- === MATIERE ET OBJET : 0/5  (0.00%)
+- === PARTIES DU CORPS ET FONCTIONS : 0/5  (0.00%)
+- === CONCEPTS ABSTRAITS (opposes) : 0/5  (0.00%)
+
+=== Quadruplets bien prédits ===
+france : paris :: espagne : madrid
+france : paris :: allemagne : berlin
+france : paris :: angleterre : londres
+italie : rome :: allemagne : berlin
+belgique : bruxelles :: canada : ottawa
+acteur : actrice :: chanteur : chanteuse
+serveur : serveuse :: vendeur : vendeuse
+étudiant : étudiante :: voisin : voisine
+livre : auteur :: film : réalisateur
+ville : maire :: pays : président

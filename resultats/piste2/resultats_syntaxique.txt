@@ -1,0 +1,31 @@
+FICHIER : C:\Users\zinou\Downloads\M2\ML\TPML\2\data\syntaxique.txt
+TOTAL : 19/50 corrects (38.00%)
+Temps total : 50.042 sec
+
+=== Accuracy par catégorie ===
+- === PRESENT (3s) → IMPARFAIT (3s) : 5/10  (50.00%)
+- === PRESENT (3s) → FUTUR SIMPLE (3s) : 2/10  (20.00%)
+- === SINGULIER → PLURIEL (noms) : 5/10  (50.00%)
+- === INFINITIF → PARTICIPE PASSE : 4/10  (40.00%)
+- === PRESENT 1s → PRESENT 1p : 3/10  (30.00%)
+
+=== Quadruplets bien prédits ===
+mange : mangeait :: boit : buvait
+mange : mangeait :: parle : parlait
+mange : mangeait :: chante : chantait
+parle : parlait :: chante : chantait
+marche : marchait :: dort : dormait
+mange : mangera :: parle : parlera
+prend : prendra :: donne : donnera
+chat : chats :: chien : chiens
+livre : livres :: film : films
+euro : euros :: dollar : dollars
+produit : produits :: service : services
+journal : journaux :: festival : festivals
+manger : mange :: parler : parle
+finir : fini :: prendre : pris
+voir : vu :: faire : fait
+prendre : pris :: mettre : mis
+dors : dormons :: viens : venons
+vois : voyons :: prends : prenons
+fais : faisons :: vais : allons

@@ -1,0 +1,65 @@
+# === GÉOGRAPHIQUES (pays : capitale)
+france paris italie rome
+france paris espagne madrid
+france paris allemagne berlin
+france paris angleterre londres
+espagne madrid portugal lisbonne
+italie rome allemagne berlin
+belgique bruxelles canada ottawa
+chine pekin japon tokyo
+russie moscou turquie ankara
+bresil brasilia russie moscou
+
+# === GENRE HUMAIN (masculin : feminin)
+homme femme garcon fille
+roi reine prince princesse
+pere mere fils fille
+frere soeur oncle tante
+roi homme femme reine
+monsieur madame maitre maitresse
+acteur actrice chanteur chanteuse
+serveur serveuse vendeur vendeuse
+étudiant étudiante voisin voisine
+ami amie epoux epouse
+
+# === ANIMAUX (male : femelle)
+cheval jument taureau vache
+coq poule canard cane
+chien chienne chat chatte
+lion lionne tigre tigresse
+bouc chevre belier brebis
+
+# === ARBRES ET FRUITS
+pommier pomme poirier poire
+cerisier cerise prunier prune
+oranger orange citronnier citron
+abricotier abricot pecher peche
+pommier pomme cerisier cerise
+
+# === PROFESSIONS ET LIEUX
+médecin hopital professeur école
+boulanger boulangerie boucher boucherie
+cuisinier cuisine menuisier atelier
+livre auteur film réalisateur
+ville maire pays président
+
+# === MATIERE ET OBJET
+bois table metal chaise
+verre bouteille plastique flacon
+pierre mur brique maison
+cuir chaussure laine pull
+tissu vetement soie robe
+
+# === PARTIES DU CORPS ET FONCTIONS
+oeil voir oreille entendre
+bouche parler main ecrire
+bouche manger main saisir
+pied marcher jambe courir
+tête penser coeur aimer
+
+# === CONCEPTS ABSTRAITS (opposes)
+guerre paix amour haine
+riche pauvre fort faible
+vrai faux bien mal
+joie tristesse espoir desespoir
+debut fin vie mort
